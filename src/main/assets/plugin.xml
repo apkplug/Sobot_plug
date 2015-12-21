@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin-features
+	Bundle-Name="sobot"
+	Use-Bundle-Resources="true"
+	Bundle-SymbolicName="com.sobot.sdk.demo"	
+	Bundle-Version="1.0"
+	date="2015/11/04"
+	provider-name="Apkplug" 
+	provider-url="" 
+	Bundle-Activator="com.apkplug.SimpleBundle"
+	Bundle-Service= "com.sobot.chat.model.Information"
+	>
+</plugin-features>
